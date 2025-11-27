@@ -1,0 +1,11 @@
+[project]
+name = "result-maker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3.3",
+    "pdfkit>=1.0.0",
+    "streamlit>=1.51.0",
+]
